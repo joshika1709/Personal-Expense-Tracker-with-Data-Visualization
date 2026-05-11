@@ -1,0 +1,101 @@
+Date,Category,Amount,Payment_Method,Description
+2026-02-16,Travel,1778,Credit Card,Uber
+2026-02-06,Shopping,3893,UPI,Clothing
+2026-04-08,Entertainment,4788,Credit Card,Netflix
+2026-04-25,Bills,2737,UPI,Electricity
+2026-04-30,Food,1751,UPI,Zomato
+2026-01-04,Healthcare,3364,Debit Card,Medicine
+2026-01-24,Bills,1232,Cash,Internet
+2026-02-22,Food,1738,UPI,Restaurant
+2026-03-31,Healthcare,235,Debit Card,Medicine
+2026-02-23,Entertainment,2449,Credit Card,Games
+2026-04-19,Travel,4494,Cash,Train
+2026-04-21,Shopping,1390,Debit Card,Flipkart
+2026-03-14,Food,115,UPI,Swiggy
+2026-02-01,Travel,1214,Credit Card,Bus
+2026-01-31,Food,3983,Debit Card,Swiggy
+2026-04-04,Travel,2153,UPI,Uber
+2026-02-01,Entertainment,4876,Debit Card,Movie
+2026-01-04,Food,1642,Cash,Cafe
+2026-03-28,Food,2672,Debit Card,Swiggy
+2026-01-31,Food,199,Cash,Zomato
+2026-02-21,Entertainment,3990,UPI,Netflix
+2026-01-20,Food,4150,Debit Card,Swiggy
+2026-04-23,Shopping,3411,Debit Card,Amazon
+2026-04-14,Travel,4009,Cash,Auto
+2026-02-19,Entertainment,3739,Debit Card,Games
+2026-02-19,Entertainment,3920,Credit Card,Netflix
+2026-03-31,Food,1830,Debit Card,Swiggy
+2026-04-25,Entertainment,2018,Cash,Movie
+2026-01-26,Bills,3852,Cash,Electricity
+2026-01-20,Bills,1259,UPI,Internet
+2026-03-06,Entertainment,387,Cash,Movie
+2026-03-05,Shopping,1533,Credit Card,Mall
+2026-03-29,Bills,2436,Credit Card,Electricity
+2026-02-03,Shopping,3939,Debit Card,Amazon
+2026-01-02,Food,1827,Credit Card,Cafe
+2026-02-19,Bills,1645,Cash,Mobile Recharge
+2026-03-07,Entertainment,294,UPI,Movie
+2026-01-06,Travel,4106,UPI,Auto
+2026-04-13,Travel,862,Cash,Auto
+2026-03-16,Shopping,1061,UPI,Flipkart
+2026-01-17,Shopping,599,UPI,Flipkart
+2026-03-20,Shopping,1154,Cash,Clothing
+2026-02-11,Shopping,974,Cash,Mall
+2026-02-09,Entertainment,503,UPI,Movie
+2026-04-12,Entertainment,2219,Credit Card,Games
+2026-03-03,Food,1520,Cash,Cafe
+2026-01-28,Shopping,4258,Cash,Amazon
+2026-02-02,Bills,1429,Cash,Internet
+2026-02-28,Shopping,241,Debit Card,Mall
+2026-01-26,Travel,2503,Credit Card,Bus
+2026-02-27,Entertainment,1746,Credit Card,Movie
+2026-02-08,Healthcare,2060,Cash,Pharmacy
+2026-04-22,Shopping,879,Cash,Amazon
+2026-01-17,Entertainment,2712,Debit Card,Games
+2026-01-18,Travel,186,Credit Card,Train
+2026-03-08,Bills,993,Credit Card,Mobile Recharge
+2026-02-16,Food,3647,Credit Card,Restaurant
+2026-01-28,Healthcare,3650,Cash,Doctor
+2026-03-15,Shopping,186,Credit Card,Flipkart
+2026-04-14,Travel,1840,Cash,Auto
+2026-01-28,Food,3950,Credit Card,Restaurant
+2026-04-26,Shopping,170,Debit Card,Flipkart
+2026-04-18,Entertainment,4499,Credit Card,Netflix
+2026-02-05,Entertainment,1027,Cash,Games
+2026-04-09,Healthcare,4088,UPI,Pharmacy
+2026-03-25,Food,3284,Debit Card,Zomato
+2026-03-07,Entertainment,4328,Credit Card,Netflix
+2026-04-09,Entertainment,808,Credit Card,Netflix
+2026-03-25,Travel,3177,UPI,Train
+2026-02-21,Bills,2775,Credit Card,Electricity
+2026-01-26,Shopping,1359,Debit Card,Amazon
+2026-03-06,Entertainment,4228,UPI,Movie
+2026-03-30,Healthcare,1559,Debit Card,Doctor
+2026-01-04,Travel,1469,Debit Card,Auto
+2026-04-02,Bills,4984,Debit Card,Mobile Recharge
+2026-03-06,Healthcare,3651,Credit Card,Pharmacy
+2026-03-24,Food,1640,Credit Card,Zomato
+2026-04-23,Shopping,2384,UPI,Mall
+2026-02-24,Entertainment,2652,Debit Card,Games
+2026-02-21,Entertainment,3511,Cash,Movie
+2026-03-11,Healthcare,258,UPI,Medicine
+2026-01-24,Travel,655,Debit Card,Auto
+2026-03-18,Travel,3728,UPI,Bus
+2026-02-23,Bills,3138,Credit Card,Mobile Recharge
+2026-01-28,Food,173,UPI,Swiggy
+2026-03-15,Healthcare,1347,Debit Card,Pharmacy
+2026-03-16,Travel,3135,Debit Card,Train
+2026-01-04,Travel,660,Debit Card,Auto
+2026-03-06,Healthcare,878,UPI,Pharmacy
+2026-04-26,Entertainment,1445,Credit Card,Games
+2026-01-08,Food,3171,Cash,Cafe
+2026-02-03,Shopping,494,Credit Card,Flipkart
+2026-04-10,Food,722,Cash,Cafe
+2026-02-18,Shopping,1252,Debit Card,Clothing
+2026-02-24,Travel,4857,Cash,Train
+2026-01-06,Travel,2791,Debit Card,Uber
+2026-03-10,Entertainment,2317,Cash,Games
+2026-04-18,Shopping,4496,Debit Card,Mall
+2026-03-01,Travel,2502,Debit Card,Uber
+2026-02-01,Travel,3247,Cash,Bus
